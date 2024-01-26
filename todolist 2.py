@@ -1,6 +1,5 @@
 #Ava Diaz
 #Todo list 2 
-#7th period
 
 
 #my set to do list that doesnt change unless the user wants it to 
